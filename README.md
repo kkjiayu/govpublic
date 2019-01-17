@@ -30,6 +30,7 @@
 
 
 ### 民生
+> 仅推荐切身相关的查询工具，欲探索更多，可点击上级的父网站查询。
 [政务公开站点 - 中华人民共和国国家卫生健康委员会](http://www.nhc.gov.cn/zwgk/index.shtml) ：食品安全、医疗卫生服务、财政资金。 
   - [医生执业注册信息查询](http://zgcx.nhfpc.gov.cn:9090/doctor) 
   - [护士执业注册信息查询](http://zgcx.nhfpc.gov.cn:9090/nurse) 
