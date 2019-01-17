@@ -43,7 +43,8 @@
 [中国地震局信息公开目录](https://www.cea.gov.cn/cea/zwgk/1490515/xxgkml/index.html) 
  - [中国地震局信息公开目录](https://www.cea.gov.cn/cea/zwgk/1490515/xxgkml/index.html) 
  - [信息公开年报](https://www.cea.gov.cn/cea/zwgk/1490515/xxgknb/index.html)
- - [中国地震标准化网](http://www.eq-std.com/webPage/StudyManagement/standardLibrary.html?type=154)：地震标准查询：地震国家标准、地震行业标准、地震地方标准、地震相关标准、国外相关标准、基础标准检索系统。  其中值得注意的有： 中小学防震减灾科普示范学校评定指南、	地震应急避难场所运行管理规范、应急避难场所标志、地震应急避难场所标志。 
+ - [中国地震标准化网](http://www.eq-std.com/webPage/StudyManagement/standardLibrary.html?type=154)：地震标准查询：地震国家标准、地震行业标准、地震地方标准、地震相关标准、国外相关标准、基础标准检索系统。  
+   - 其中值得注意的信息点有： 中小学防震减灾科普示范学校评定指南、	地震应急避难场所运行管理规范、应急避难场所标志、地震应急避难场所标志。  
  
 ## Changelog： 
 - 珈瑜2019年01月17日创建仓库
