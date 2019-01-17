@@ -18,5 +18,13 @@
 [政府信息公开专栏](http://www.gov.cn/zhengce/xxgkzl.htm) 
 
 
+### 民生
+[政务公开站点 - 中华人民共和国国家卫生健康委员会](http://www.nhc.gov.cn/zwgk/index.shtml) ：食品安全、医疗卫生服务、财政资金。 
+  - [医生执业注册信息查询](http://zgcx.nhfpc.gov.cn:9090/doctor) 
+  - [护士执业注册信息查询](http://zgcx.nhfpc.gov.cn:9090/nurse) 
+  - [器官移植机构名单](http://www.nhc.gov.cn/zhuz/yzjg/list.shtml)
+  - [药品目录](http://cdsip.nhfpc.gov.cn/druglist/52.html)：国家医保目录、国家低价药清单、国家基本药物目录PDF 下载。 
+  - [主管报刊和电子期刊 - 中华人民共和国国家卫生健康委员会](http://www.nhc.gov.cn/zhuz/zgbk/201612/93a6cd0ea6944c87867ce78821443ea3.shtml) ： 朋友圈”大保健“信息源查询利器。 
+  - [全国爱婴医院名单公告](http://www.nhc.gov.cn/zhuz/yymd/201511/e5650712dbcd449e9d2e01129a698b9c.shtml)  
 ## Changelog： 
 - 珈瑜2019年01月17日创建仓库
